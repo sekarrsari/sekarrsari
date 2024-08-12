@@ -19,7 +19,7 @@
 <h3 align="center">GitHub Analytics</h3>
 <p align="center">
 <a href="https://github.com/sekarrsari">
-  <img height="180em" src="https://github-readme-stats-seven-rho-69.vercel.app/api/top-langs/?username=sekarrsari&layout=compact&theme=algolia&hide=hack"/>
+<!--   <img height="180em" src="https://github-readme-stats-seven-rho-69.vercel.app/api/top-langs/?username=sekarrsari&layout=compact&theme=algolia&hide=hack"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sekarrsari&theme=tokyonight&date_format=j%20M%5B%20Y%5D">
 </a>
 </p>
