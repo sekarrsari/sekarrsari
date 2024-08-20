@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-00f?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/javascript-ccaa30?style=for-the-badge&logo=javascript&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/javascript-ccaa30?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -23,4 +23,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sekarrsari&theme=tokyonight&date_format=j%20M%5B%20Y%5D">
 </a>
 </p>
-
